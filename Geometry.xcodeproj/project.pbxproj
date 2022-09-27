@@ -11,6 +11,7 @@
 		AA061FB028E2A6500009394A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA061FAF28E2A6500009394A /* ContentView.swift */; };
 		AA061FB228E2A6510009394A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AA061FB128E2A6510009394A /* Assets.xcassets */; };
 		AA061FB528E2A6510009394A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AA061FB428E2A6510009394A /* Preview Assets.xcassets */; };
+		AA061FBC28E2B0810009394A /* AnimacionGeometryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA061FBB28E2B0810009394A /* AnimacionGeometryView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		AA061FAF28E2A6500009394A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		AA061FB128E2A6510009394A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AA061FB428E2A6510009394A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		AA061FBB28E2B0810009394A /* AnimacionGeometryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimacionGeometryView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				AA061FAF28E2A6500009394A /* ContentView.swift */,
 				AA061FB128E2A6510009394A /* Assets.xcassets */,
 				AA061FB328E2A6510009394A /* Preview Content */,
+				AA061FBB28E2B0810009394A /* AnimacionGeometryView.swift */,
 			);
 			path = Geometry;
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AA061FBC28E2B0810009394A /* AnimacionGeometryView.swift in Sources */,
 				AA061FB028E2A6500009394A /* ContentView.swift in Sources */,
 				AA061FAE28E2A6500009394A /* GeometryApp.swift in Sources */,
 			);
